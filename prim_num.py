@@ -1,4 +1,4 @@
-#! /bin/bash/python
+#! /bin/python
 
 
 def prim_num():
