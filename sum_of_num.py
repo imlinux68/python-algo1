@@ -8,4 +8,5 @@ def sum_num():
         a = a // 10
     print(s)
 
-sum_num()
+if __name__ == "__main__":
+    sum_num()

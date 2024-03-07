@@ -15,4 +15,5 @@ def prim_num():
         print("Number isn't a primary")
         print(composites)
 
-prim_num()
+if __name__ == "__main__":
+    prim_num()

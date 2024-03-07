@@ -11,4 +11,6 @@ def bubble_sort():
 
     print(nums)
 
-bubble_sort()
+
+if __name__ == "__main__":
+    bubble_sort()
