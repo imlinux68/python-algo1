@@ -8,7 +8,10 @@ def main():
 	q.append(3)
 	q.append(10)
 	print(q)
-
+	q.popleft()
+	print(q)
+	q.pop()
+	print(q)
 
 if __name__ == "__main__":
 	main()
